@@ -1,0 +1,14 @@
+/* Custom CSS for Project Two */
+
+p {
+font-size: 16px;
+}
+
+body{
+background-color: #99CCFF ;
+}
+
+div.biglogo{
+text-align: center;
+}
+
